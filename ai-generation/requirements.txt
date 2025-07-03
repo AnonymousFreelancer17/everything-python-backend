@@ -1,0 +1,13 @@
+flask
+flask-cors
+pymongo
+requests
+pillow
+imagehash
+beautifulsoup4
+selenium
+scikit-image
+opencv-python
+werkzeug
+fastapi
+httpx
